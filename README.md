@@ -14,7 +14,7 @@ La interfaz muestra también el **total de elementos** disponibles en la ruta ac
 
 ##✨ Vista previa
 
-![file_uploader_Preview](preview.gif)
+![file_uploader_Preview](previewup.gif)
 
 ---
 

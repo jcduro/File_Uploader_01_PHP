@@ -1,4 +1,5 @@
-<?php
+     
+      <?php
 date_default_timezone_set('America/Bogota');
 
 $baseDir = __DIR__ . '/aqui';
@@ -34,6 +35,16 @@ $items = scandir($currentDir);
 $items = array_diff($items, ['.', '..']);
 $currentTime = date("d/m/Y H:i:s");
 ?>
+
+<pre class="ascii-art">
+      _  _____ _____  _    _ _____   ____  
+     | |/ ____|  __ \| |  | |  __ \ / __ \ 
+     | | |    | |  | | |  | | |__) | |  | |
+ _   | | |    | |  | | |  | |  _  /| |  | |
+| |__| | |____| |__| | |__| | | \ \| |__| |
+ \____/ \_____|_____/ \____/|_|  \_\\____/ 
+</pre>
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -80,4 +91,5 @@ $currentTime = date("d/m/Y H:i:s");
         <?php endforeach; ?>
     </ul>
 </body>
+
 </html>

@@ -1,4 +1,4 @@
-##🌟 File Uploader 01
+## 🌟 File Uploader 01
 
 Pequeña utilidad web para cargar y gestionar archivos en el servidor.  
 Forma parte de los **proyectos de práctica** alojados en la Carpeta "aqui"
@@ -12,7 +12,7 @@ La interfaz muestra también el **total de elementos** disponibles en la ruta ac
 
 ---
 
-##✨ Vista previa
+## ✨ Vista previa
 
 ![file_uploader_Preview](previewup.gif)
 
@@ -64,7 +64,7 @@ La interfaz muestra también el **total de elementos** disponibles en la ruta ac
 
 --- 
 
-##🧾 Licencia
+## 🧾 Licencia
 
 Este proyecto se distribuye libremente para uso personal o comercial.
 Puedes modificarlo según tus necesidades, pero se recomienda mantener las medidas de seguridad integradas.
